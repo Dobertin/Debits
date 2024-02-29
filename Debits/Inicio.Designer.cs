@@ -1,6 +1,6 @@
 ﻿namespace Debits
 {
-    partial class Form1
+    partial class Inicio
     {
         /// <summary>
         ///  Required designer variable.
@@ -34,7 +34,7 @@
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(626, 421);
+            ClientSize = new Size(532, 278);
             Name = "Form1";
             Text = "Form1";
             ResumeLayout(false);
